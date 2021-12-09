@@ -113,6 +113,6 @@ SLIDE 15, Marks
     	cout << "Average = " << avg;
 
     	return 0;
-}
+	}
     
 
